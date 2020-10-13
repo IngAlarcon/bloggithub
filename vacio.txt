@@ -1,1 +1,0 @@
-Mensaje secreto en git bash
