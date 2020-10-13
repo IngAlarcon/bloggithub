@@ -3,3 +3,6 @@ Esta es la hitoria de Chango
 Walter Alarcon tiene 31 años y nacio en Jujuy
 
 Hoy seguimos con el curso de git.
+
+Profecion  Programador en Backend y Frondend con php 
+
