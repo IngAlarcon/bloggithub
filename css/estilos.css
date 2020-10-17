@@ -1,5 +1,5 @@
-body{
-  
+body {
+
   color: brown;
   text-align: center;
   font-family: "Arial";
@@ -9,7 +9,7 @@ body{
 
 }
 
-#container{
+#container {
   width: 70%;
   padding: 1em;
   text-align: left;
@@ -17,7 +17,7 @@ body{
   margin: 0 auto;
 }
 
-#container h1{
+#container h1 {
 
   font-size: 20px;
 }
